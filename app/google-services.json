@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412750266841",
+    "firebase_url": "https://notifikasi-android-c1177.firebaseio.com",
+    "project_id": "notifikasi-android-c1177",
+    "storage_bucket": "notifikasi-android-c1177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412750266841:android:ff3074791a3a4cf891d9c8",
+        "android_client_info": {
+          "package_name": "com.denatan.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412750266841-gm5qmdmaoe2gn5f3igcbrogp2q0qf8pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denatan.firebasenotification",
+            "certificate_hash": "105ac0504f33f53160538672b2d7fd75602f0e2f"
+          }
+        },
+        {
+          "client_id": "412750266841-g0be55c292uprmaa416k32j57vtqcaui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlJe1bC6fhh58Oseeud3KUl4DT-S6TWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412750266841-g0be55c292uprmaa416k32j57vtqcaui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
